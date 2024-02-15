@@ -1,0 +1,3 @@
+id,args,output,exitcode
+test1,-u test1_in,test1_out,0
+test2,-u test1_in,test1_in,0
